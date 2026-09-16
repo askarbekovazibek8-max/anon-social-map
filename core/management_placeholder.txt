@@ -1,0 +1,1 @@
+Demo data can be added through Django Admin; no real personal data is included by default.
