@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+db.sqlite3-journal
+staticfiles/
+.env
+venv/
+media/*
+!media/.gitkeep
